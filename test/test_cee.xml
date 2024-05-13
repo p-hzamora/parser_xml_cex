@@ -1,0 +1,846 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<DatosEnergeticosDelEdificio version="2.0">
+  <DatosDelCertificador>
+    <NIFEntidad>B81512550</NIFEntidad>
+    <ComunidadAutonoma>Comunidad de Madrid</ComunidadAutonoma>
+    <Titulacion>Arquitecto</Titulacion>
+    <Fecha>25/07/2023</Fecha>
+    <NIF>07243977N</NIF>
+    <NombreyApellidos>Rafael Cuenca Herreros</NombreyApellidos>
+    <RazonSocial>ST Consultores  Inmobiliarios S.L</RazonSocial>
+    <Municipio>Madrid</Municipio>
+    <CodigoPostal>28002</CodigoPostal>
+    <Provincia>Madrid</Provincia>
+    <Telefono>911835430</Telefono>
+    <Email>gestionayudas@stconsultores.com</Email>
+    <Domicilio>Calle Principe de Vergara, 112 6ª planta</Domicilio>
+  </DatosDelCertificador>
+  <IdentificacionEdificio>
+    <ReferenciaCatastral>3558927VK4735H</ReferenciaCatastral>
+    <Provincia>Madrid</Provincia>
+    <ComunidadAutonoma>Comunidad de Madrid</ComunidadAutonoma>
+    <ZonaClimatica>D3</ZonaClimatica>
+    <TipoDeEdificio>BloqueDeViviendaCompleto</TipoDeEdificio>
+    <NormativaVigente>Anterior</NormativaVigente>
+    <Direccion>CALLE RUIZ PERELLO 8</Direccion>
+    <NombreDelEdificio>COMUNIDAD DE PROPIETARIOS DE CALLE RUIZ PERELLO 8</NombreDelEdificio>
+    <Procedimiento>CEXv2.3</Procedimiento>
+    <CodigoPostal>28028</CodigoPostal>
+    <AlcanceInformacionXML>CertificacionExistente</AlcanceInformacionXML>
+    <Municipio>Madrid </Municipio>
+    <AnoConstruccion>1960</AnoConstruccion>
+  </IdentificacionEdificio>
+  <DatosGeneralesyGeometria>
+    <VentilacionUsoResidencial>0.63</VentilacionUsoResidencial>
+    <NumeroDePlantasSobreRasante>99999999.99</NumeroDePlantasSobreRasante>
+    <PorcentajeSuperficieHabitableCalefactada>100</PorcentajeSuperficieHabitableCalefactada>
+    <SuperficieHabitable>2214.40</SuperficieHabitable>
+    <DensidadFuentesInternas>0.00</DensidadFuentesInternas>
+    <Compacidad>3.13</Compacidad>
+    <VolumenEspacioHabitable>6643.20</VolumenEspacioHabitable>
+    <VentilacionTotal>0.63</VentilacionTotal>
+    <DemandaDiariaACS>2903.60</DemandaDiariaACS>
+    <Plano>plano codificado en Base64</Plano>
+    <NumeroDePlantasBajoRasante>99999999</NumeroDePlantasBajoRasante>
+    <PorcentajeSuperficieHabitableRefrigerada>0</PorcentajeSuperficieHabitableRefrigerada>
+    <Imagen>imagen codificada en Base64</Imagen>
+    <PorcentajeSuperficieAcristalada>
+      <E>6</E>
+      <NO>0</NO>
+      <NE>0</NE>
+      <O>9</O>
+      <N>7</N>
+      <S>7</S>
+      <SO>0</SO>
+      <SE>0</SE>
+    </PorcentajeSuperficieAcristalada>
+  </DatosGeneralesyGeometria>
+  <DatosEnvolventeTermica>
+    <CerramientosOpacos>
+      <Elemento>
+        <Tipo>Adiabatico</Tipo>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>0.00</Transmitancia>
+        <Nombre>Medianería Oeste</Nombre>
+        <Orientacion></Orientacion>
+        <Superficie>415.80</Superficie>
+        <Capas/>
+      </Elemento>
+      <Elemento>
+        <Tipo>Adiabatico</Tipo>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>0.00</Transmitancia>
+        <Nombre>Medianería Este</Nombre>
+        <Orientacion></Orientacion>
+        <Superficie>417.60</Superficie>
+        <Capas/>
+      </Elemento>
+      <Elemento>
+        <Tipo>Fachada</Tipo>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>2.38</Transmitancia>
+        <Nombre>Muro de fachada N</Nombre>
+        <Orientacion>Norte</Orientacion>
+        <Superficie>385.20</Superficie>
+        <Capas/>
+      </Elemento>
+      <Elemento>
+        <Tipo>Fachada</Tipo>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>2.38</Transmitancia>
+        <Nombre>Muro de fachada S</Nombre>
+        <Orientacion>Sur</Orientacion>
+        <Superficie>385.20</Superficie>
+        <Capas/>
+      </Elemento>
+      <Elemento>
+        <Tipo>Fachada</Tipo>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>2.38</Transmitancia>
+        <Nombre>Muro de fachada Oeste  patio</Nombre>
+        <Orientacion>Oeste</Orientacion>
+        <Superficie>126.00</Superficie>
+        <Capas/>
+      </Elemento>
+      <Elemento>
+        <Tipo>Fachada</Tipo>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>2.38</Transmitancia>
+        <Nombre>Muro de fachada Este patio</Nombre>
+        <Orientacion>Este</Orientacion>
+        <Superficie>126.00</Superficie>
+        <Capas/>
+      </Elemento>
+      <Elemento>
+        <Tipo>Fachada</Tipo>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>2.38</Transmitancia>
+        <Nombre>Muro de fachada N patio</Nombre>
+        <Orientacion>Norte</Orientacion>
+        <Superficie>151.20</Superficie>
+        <Capas/>
+      </Elemento>
+      <Elemento>
+        <Tipo>Fachada</Tipo>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>2.38</Transmitancia>
+        <Nombre>Muro de fachada S patio</Nombre>
+        <Orientacion>Sur</Orientacion>
+        <Superficie>151.20</Superficie>
+        <Capas/>
+      </Elemento>
+      <Elemento>
+        <Tipo>Cubierta</Tipo>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>2.17</Transmitancia>
+        <Nombre>Cubierta con aire </Nombre>
+        <Orientacion>Horizontal</Orientacion>
+        <Superficie>400.06</Superficie>
+        <Capas/>
+      </Elemento>
+      <Elemento>
+        <Tipo>Suelo</Tipo>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.00</Transmitancia>
+        <Nombre>Suelo con terreno</Nombre>
+        <Orientacion>Suelo</Orientacion>
+        <Superficie>400.06</Superficie>
+        <Capas/>
+      </Elemento>
+    </CerramientosOpacos>
+    <HuecosyLucernarios>
+      <Elemento>
+        <Tipo>Hueco</Tipo>
+        <Superficie>12.80</Superficie>
+        <Transmitancia>3.78</Transmitancia>
+        <Nombre>Hueco ventana 80x80cm</Nombre>
+        <ModoDeObtencionTransmitancia>Estimado</ModoDeObtencionTransmitancia>
+        <Orientacion>Norte</Orientacion>
+        <ModoDeObtencionFactorSolar>Estimado</ModoDeObtencionFactorSolar>
+        <FactorSolar>0.61</FactorSolar>
+      </Elemento>
+      <Elemento>
+        <Tipo>Hueco</Tipo>
+        <Superficie>10.08</Superficie>
+        <Transmitancia>3.78</Transmitancia>
+        <Nombre>Hueco balconera 210x80cm</Nombre>
+        <ModoDeObtencionTransmitancia>Estimado</ModoDeObtencionTransmitancia>
+        <Orientacion>Norte</Orientacion>
+        <ModoDeObtencionFactorSolar>Estimado</ModoDeObtencionFactorSolar>
+        <FactorSolar>0.61</FactorSolar>
+      </Elemento>
+      <Elemento>
+        <Tipo>Hueco</Tipo>
+        <Superficie>2.56</Superficie>
+        <Transmitancia>3.78</Transmitancia>
+        <Nombre>Hueco ventana reja 80x80cm</Nombre>
+        <ModoDeObtencionTransmitancia>Estimado</ModoDeObtencionTransmitancia>
+        <Orientacion>Norte</Orientacion>
+        <ModoDeObtencionFactorSolar>Estimado</ModoDeObtencionFactorSolar>
+        <FactorSolar>0.61</FactorSolar>
+      </Elemento>
+      <Elemento>
+        <Tipo>Hueco</Tipo>
+        <Superficie>1.92</Superficie>
+        <Transmitancia>3.78</Transmitancia>
+        <Nombre>Hueco ventana reja 40x80cm</Nombre>
+        <ModoDeObtencionTransmitancia>Estimado</ModoDeObtencionTransmitancia>
+        <Orientacion>Norte</Orientacion>
+        <ModoDeObtencionFactorSolar>Estimado</ModoDeObtencionFactorSolar>
+        <FactorSolar>0.61</FactorSolar>
+      </Elemento>
+      <Elemento>
+        <Tipo>Hueco</Tipo>
+        <Superficie>12.80</Superficie>
+        <Transmitancia>3.78</Transmitancia>
+        <Nombre>Hueco ventana 80x80cm SUR</Nombre>
+        <ModoDeObtencionTransmitancia>Estimado</ModoDeObtencionTransmitancia>
+        <Orientacion>Sur</Orientacion>
+        <ModoDeObtencionFactorSolar>Estimado</ModoDeObtencionFactorSolar>
+        <FactorSolar>0.24</FactorSolar>
+      </Elemento>
+      <Elemento>
+        <Tipo>Hueco</Tipo>
+        <Superficie>16.80</Superficie>
+        <Transmitancia>3.78</Transmitancia>
+        <Nombre>Hueco balconera 210x80cm Sur</Nombre>
+        <ModoDeObtencionTransmitancia>Estimado</ModoDeObtencionTransmitancia>
+        <Orientacion>Sur</Orientacion>
+        <ModoDeObtencionFactorSolar>Estimado</ModoDeObtencionFactorSolar>
+        <FactorSolar>0.38</FactorSolar>
+      </Elemento>
+      <Elemento>
+        <Tipo>Hueco</Tipo>
+        <Superficie>11.52</Superficie>
+        <Transmitancia>3.78</Transmitancia>
+        <Nombre>Hueco ventana 80x80 cm</Nombre>
+        <ModoDeObtencionTransmitancia>Estimado</ModoDeObtencionTransmitancia>
+        <Orientacion>Oeste</Orientacion>
+        <ModoDeObtencionFactorSolar>Estimado</ModoDeObtencionFactorSolar>
+        <FactorSolar>0.37</FactorSolar>
+      </Elemento>
+      <Elemento>
+        <Tipo>Hueco</Tipo>
+        <Superficie>7.68</Superficie>
+        <Transmitancia>3.78</Transmitancia>
+        <Nombre>Hueco ventana 80x80 cm oeste patio</Nombre>
+        <ModoDeObtencionTransmitancia>Estimado</ModoDeObtencionTransmitancia>
+        <Orientacion>Este</Orientacion>
+        <ModoDeObtencionFactorSolar>Estimado</ModoDeObtencionFactorSolar>
+        <FactorSolar>0.37</FactorSolar>
+      </Elemento>
+      <Elemento>
+        <Tipo>Hueco</Tipo>
+        <Superficie>7.68</Superficie>
+        <Transmitancia>3.78</Transmitancia>
+        <Nombre>Hueco ventana 80x80 cm N patio</Nombre>
+        <ModoDeObtencionTransmitancia>Estimado</ModoDeObtencionTransmitancia>
+        <Orientacion>Norte</Orientacion>
+        <ModoDeObtencionFactorSolar>Estimado</ModoDeObtencionFactorSolar>
+        <FactorSolar>0.61</FactorSolar>
+      </Elemento>
+      <Elemento>
+        <Tipo>Hueco</Tipo>
+        <Superficie>7.68</Superficie>
+        <Transmitancia>3.78</Transmitancia>
+        <Nombre>Hueco ventana 80x80 cm S patio</Nombre>
+        <ModoDeObtencionTransmitancia>Estimado</ModoDeObtencionTransmitancia>
+        <Orientacion>Sur</Orientacion>
+        <ModoDeObtencionFactorSolar>Estimado</ModoDeObtencionFactorSolar>
+        <FactorSolar>0.24</FactorSolar>
+      </Elemento>
+    </HuecosyLucernarios>
+    <PuentesTermicos>
+      <Elemento>
+        <Nombre>PT Pilar integrado en fachada-Muro de fachada N</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.05</Transmitancia>
+        <Tipo>Pilar integrado en fachada</Tipo>
+        <Longitud>108.00</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Encuentro de fachada con forjado-Muro de fachada N</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.58</Transmitancia>
+        <Tipo>Encuentro de fachada con forjado</Tipo>
+        <Longitud>128.40</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Pilar integrado en fachada-Muro de fachada S</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.05</Transmitancia>
+        <Tipo>Pilar integrado en fachada</Tipo>
+        <Longitud>108.00</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Encuentro de fachada con forjado-Muro de fachada S</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.58</Transmitancia>
+        <Tipo>Encuentro de fachada con forjado</Tipo>
+        <Longitud>128.40</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Pilar integrado en fachada-Muro de fachada Oeste  patio</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.05</Transmitancia>
+        <Tipo>Pilar integrado en fachada</Tipo>
+        <Longitud>54.00</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Encuentro de fachada con forjado-Muro de fachada Oeste  patio</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.58</Transmitancia>
+        <Tipo>Encuentro de fachada con forjado</Tipo>
+        <Longitud>42.00</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Pilar integrado en fachada-Muro de fachada Este patio</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.05</Transmitancia>
+        <Tipo>Pilar integrado en fachada</Tipo>
+        <Longitud>54.00</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Encuentro de fachada con forjado-Muro de fachada Este patio</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.58</Transmitancia>
+        <Tipo>Encuentro de fachada con forjado</Tipo>
+        <Longitud>42.00</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Pilar integrado en fachada-Muro de fachada N patio</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.05</Transmitancia>
+        <Tipo>Pilar integrado en fachada</Tipo>
+        <Longitud>54.00</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Encuentro de fachada con forjado-Muro de fachada N patio</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.58</Transmitancia>
+        <Tipo>Encuentro de fachada con forjado</Tipo>
+        <Longitud>50.40</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Pilar integrado en fachada-Muro de fachada S patio</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.05</Transmitancia>
+        <Tipo>Pilar integrado en fachada</Tipo>
+        <Longitud>54.00</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Encuentro de fachada con forjado-Muro de fachada S patio</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.58</Transmitancia>
+        <Tipo>Encuentro de fachada con forjado</Tipo>
+        <Longitud>50.40</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Contorno de hueco-Hueco ventana 80x80cm</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>0.55</Transmitancia>
+        <Tipo>Contorno de hueco</Tipo>
+        <Longitud>64.00</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Caja de Persiana-Hueco ventana 80x80cm</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.49</Transmitancia>
+        <Tipo>Caja de Persiana</Tipo>
+        <Longitud>16.00</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Contorno de hueco-Hueco balconera 210x80cm</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>0.55</Transmitancia>
+        <Tipo>Contorno de hueco</Tipo>
+        <Longitud>34.80</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Caja de Persiana-Hueco balconera 210x80cm</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.49</Transmitancia>
+        <Tipo>Caja de Persiana</Tipo>
+        <Longitud>4.80</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Contorno de hueco-Hueco ventana reja 80x80cm</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>0.55</Transmitancia>
+        <Tipo>Contorno de hueco</Tipo>
+        <Longitud>64.00</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Caja de Persiana-Hueco ventana reja 80x80cm</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.49</Transmitancia>
+        <Tipo>Caja de Persiana</Tipo>
+        <Longitud>16.00</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Contorno de hueco-Hueco ventana reja 40x80cm</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>0.55</Transmitancia>
+        <Tipo>Contorno de hueco</Tipo>
+        <Longitud>6.40</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Caja de Persiana-Hueco ventana reja 40x80cm</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.49</Transmitancia>
+        <Tipo>Caja de Persiana</Tipo>
+        <Longitud>1.60</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Contorno de hueco-Hueco ventana 80x80cm SUR</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>0.55</Transmitancia>
+        <Tipo>Contorno de hueco</Tipo>
+        <Longitud>64.00</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Caja de Persiana-Hueco ventana 80x80cm SUR</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.49</Transmitancia>
+        <Tipo>Caja de Persiana</Tipo>
+        <Longitud>16.00</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Contorno de hueco-Hueco balconera 210x80cm Sur</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>0.55</Transmitancia>
+        <Tipo>Contorno de hueco</Tipo>
+        <Longitud>34.80</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Caja de Persiana-Hueco balconera 210x80cm Sur</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.49</Transmitancia>
+        <Tipo>Caja de Persiana</Tipo>
+        <Longitud>4.80</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Contorno de hueco-Hueco ventana 80x80 cm</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>0.55</Transmitancia>
+        <Tipo>Contorno de hueco</Tipo>
+        <Longitud>57.60</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Caja de Persiana-Hueco ventana 80x80 cm</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.49</Transmitancia>
+        <Tipo>Caja de Persiana</Tipo>
+        <Longitud>14.40</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Contorno de hueco-Hueco ventana 80x80 cm oeste patio</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>0.55</Transmitancia>
+        <Tipo>Contorno de hueco</Tipo>
+        <Longitud>57.60</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Caja de Persiana-Hueco ventana 80x80 cm oeste patio</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.49</Transmitancia>
+        <Tipo>Caja de Persiana</Tipo>
+        <Longitud>14.40</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Contorno de hueco-Hueco ventana 80x80 cm N patio</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>0.55</Transmitancia>
+        <Tipo>Contorno de hueco</Tipo>
+        <Longitud>57.60</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Caja de Persiana-Hueco ventana 80x80 cm N patio</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.49</Transmitancia>
+        <Tipo>Caja de Persiana</Tipo>
+        <Longitud>14.40</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Contorno de hueco-Hueco ventana 80x80 cm S patio</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>0.55</Transmitancia>
+        <Tipo>Contorno de hueco</Tipo>
+        <Longitud>57.60</Longitud>
+      </Elemento>
+      <Elemento>
+        <Nombre>PT Caja de Persiana-Hueco ventana 80x80 cm S patio</Nombre>
+        <ModoDeObtencion>PorDefecto</ModoDeObtencion>
+        <Transmitancia>1.49</Transmitancia>
+        <Tipo>Caja de Persiana</Tipo>
+        <Longitud>14.40</Longitud>
+      </Elemento>
+    </PuentesTermicos>
+  </DatosEnvolventeTermica>
+  <InstalacionesTermicas>
+    <GeneradoresDeCalefaccion>
+      <Generador>
+        <RendimientoNominal>99999999.99</RendimientoNominal>
+        <Tipo>Caldera Estándar</Tipo>
+        <ModoDeObtencion>Estimado</ModoDeObtencion>
+        <VectorEnergetico>GasNatural</VectorEnergetico>
+        <PotenciaNominal>300.00</PotenciaNominal>
+        <Nombre>Calefacción y ACS</Nombre>
+        <RendimientoEstacional>0.74</RendimientoEstacional>
+      </Generador>
+    </GeneradoresDeCalefaccion>
+    <InstalacionesACS>
+      <Instalacion>
+        <RendimientoNominal>99999999.99</RendimientoNominal>
+        <Tipo>Caldera Estándar</Tipo>
+        <ModoDeObtencion>Estimado</ModoDeObtencion>
+        <VectorEnergetico></VectorEnergetico>
+        <PotenciaNominal>300.00</PotenciaNominal>
+        <Nombre>Calefacción y ACSanitaria</Nombre>
+        <RendimientoEstacional>0.74</RendimientoEstacional>
+      </Instalacion>
+    </InstalacionesACS>
+  </InstalacionesTermicas>
+  <CondicionesFuncionamientoyOcupacion>
+    <Espacio>
+      <Nombre>Edificio Objeto</Nombre>
+      <Superficie>2214.40</Superficie>
+      <NivelDeAcondicionamiento>Acondicionado</NivelDeAcondicionamiento>
+      <PerfilDeUso>residencial-24h-baja</PerfilDeUso>
+    </Espacio>
+  </CondicionesFuncionamientoyOcupacion>
+  <Demanda>
+    <EdificioObjeto>
+      <Conjunta08>99999999.99</Conjunta08>
+      <Ahorro08>99999999.99</Ahorro08>
+      <Global>164.65</Global>
+      <ACS>25.87</ACS>
+      <Refrigeracion>8.12</Refrigeracion>
+      <Calefaccion08>99999999.99</Calefaccion08>
+      <Calefaccion>130.66</Calefaccion>
+      <Conjunta>136.34</Conjunta>
+      <Refrigeracion08>99999999.99</Refrigeracion08>
+    </EdificioObjeto>
+  </Demanda>
+  <Consumo>
+    <FactoresdePaso>
+      <FinalAPrimariaNoRenovable>
+        <GasNatural>1.19</GasNatural>
+        <ElectricidadBaleares>1.954</ElectricidadBaleares>
+        <BiomasaOtros>0.034</BiomasaOtros>
+        <ElectricidadCeutayMelilla>1.954</ElectricidadCeutayMelilla>
+        <GasoleoC>1.179</GasoleoC>
+        <ElectricidadPeninsular>1.954</ElectricidadPeninsular>
+        <GLP>1.201</GLP>
+        <Carbon>1.082</Carbon>
+        <Biocarburante>0.085</Biocarburante>
+        <ElectricidadCanarias>1.954</ElectricidadCanarias>
+        <BiomasaPellet>0.085</BiomasaPellet>
+      </FinalAPrimariaNoRenovable>
+      <FinalAEmisiones>
+        <GasNatural>0.252</GasNatural>
+        <ElectricidadBaleares>0.331</ElectricidadBaleares>
+        <BiomasaOtros>0.018</BiomasaOtros>
+        <ElectricidadCeutayMelilla>0.331</ElectricidadCeutayMelilla>
+        <GasoleoC>0.311</GasoleoC>
+        <ElectricidadPeninsular>0.331</ElectricidadPeninsular>
+        <GLP>0.254</GLP>
+        <Carbon>0.472</Carbon>
+        <Biocarburante>0.018</Biocarburante>
+        <ElectricidadCanarias>0.331</ElectricidadCanarias>
+        <BiomasaPellet>0.018</BiomasaPellet>
+      </FinalAEmisiones>
+    </FactoresdePaso>
+    <EnergiaFinalVectores>
+      <GasNatural>
+        <Calefaccion>177.04</Calefaccion>
+        <Global>212.10</Global>
+        <ACS>35.05</ACS>
+        <Refrigeracion>0.00</Refrigeracion>
+        <Iluminacion>0.00</Iluminacion>
+      </GasNatural>
+      <ElectricidadPeninsular>
+        <Calefaccion>0.00</Calefaccion>
+        <Global>4.06</Global>
+        <ACS>0.00</ACS>
+        <Refrigeracion>4.06</Refrigeracion>
+        <Iluminacion>0.00</Iluminacion>
+      </ElectricidadPeninsular>
+      <BiomasaOtros>
+        <Calefaccion>0.00</Calefaccion>
+        <Global>0.00</Global>
+        <ACS>0.00</ACS>
+        <Refrigeracion>0.00</Refrigeracion>
+        <Iluminacion>0.00</Iluminacion>
+      </BiomasaOtros>
+      <GasoleoC>
+        <Calefaccion>0.00</Calefaccion>
+        <Global>0.00</Global>
+        <ACS>0.00</ACS>
+        <Refrigeracion>0.00</Refrigeracion>
+        <Iluminacion>0.00</Iluminacion>
+      </GasoleoC>
+      <GLP>
+        <Calefaccion>0.00</Calefaccion>
+        <Global>0.00</Global>
+        <ACS>0.00</ACS>
+        <Refrigeracion>0.00</Refrigeracion>
+        <Iluminacion>0.00</Iluminacion>
+      </GLP>
+      <Carbon>
+        <Calefaccion>0.00</Calefaccion>
+        <Global>0.00</Global>
+        <ACS>0.00</ACS>
+        <Refrigeracion>0.00</Refrigeracion>
+        <Iluminacion>0.00</Iluminacion>
+      </Carbon>
+      <Biocarburante>
+        <Calefaccion>0.00</Calefaccion>
+        <Global>0.00</Global>
+        <ACS>0.00</ACS>
+        <Refrigeracion>0.00</Refrigeracion>
+        <Iluminacion>0.00</Iluminacion>
+      </Biocarburante>
+      <BiomasaPellet>
+        <Calefaccion>0.00</Calefaccion>
+        <Global>0.00</Global>
+        <ACS>0.00</ACS>
+        <Refrigeracion>0.00</Refrigeracion>
+        <Iluminacion>0.00</Iluminacion>
+      </BiomasaPellet>
+    </EnergiaFinalVectores>
+    <EnergiaPrimariaNoRenovable>
+      <ACS>41.71</ACS>
+      <Calefaccion>210.68</Calefaccion>
+      <Global>260.33</Global>
+      <Refrigeracion>7.94</Refrigeracion>
+      <Iluminacion>0.00</Iluminacion>
+    </EnergiaPrimariaNoRenovable>
+  </Consumo>
+  <EmisionesCO2>
+    <ConsumoElectrico>1.34</ConsumoElectrico>
+    <TotalConsumoElectrico>2977.61</TotalConsumoElectrico>
+    <TotalConsumoOtros>118355.62</TotalConsumoOtros>
+    <Calefaccion>44.61</Calefaccion>
+    <Global>54.79</Global>
+    <ACS>8.83</ACS>
+    <Refrigeracion>1.34</Refrigeracion>
+    <ConsumoOtros>53.45</ConsumoOtros>
+    <Iluminacion>0.00</Iluminacion>
+  </EmisionesCO2>
+  <Calificacion>
+    <Demanda>
+      <Calefaccion>E</Calefaccion>
+      <Refrigeracion>B</Refrigeracion>
+      <EscalaCalefaccion>
+        <A>11.70</A>
+        <B>27.00</B>
+        <C>48.70</C>
+        <D>81.60</D>
+        <E>144.10</E>
+        <F>157.10</F>
+      </EscalaCalefaccion>
+      <EscalaRefrigeracion>
+        <A>5.50</A>
+        <B>8.90</B>
+        <C>13.90</C>
+        <D>21.30</D>
+        <E>26.30</E>
+        <F>32.40</F>
+      </EscalaRefrigeracion>
+    </Demanda>
+    <EnergiaPrimariaNoRenovable>
+      <Calefaccion>E</Calefaccion>
+      <Refrigeracion>B</Refrigeracion>
+      <ACS>G</ACS>
+      <Global>E</Global>
+      <EscalaGlobal>
+        <A>37.10</A>
+        <B>60.10</B>
+        <C>93.20</C>
+        <D>143.30</D>
+        <E>298.10</E>
+        <F>336.80</F>
+      </EscalaGlobal>
+    </EnergiaPrimariaNoRenovable>
+    <EmisionesCO2>
+      <Calefaccion>E</Calefaccion>
+      <Refrigeracion>A</Refrigeracion>
+      <ACS>G</ACS>
+      <Global>E</Global>
+      <EscalaGlobal>
+        <A>8.40</A>
+        <B>13.60</B>
+        <C>21.10</C>
+        <D>32.40</D>
+        <E>66.30</E>
+        <F>79.60</F>
+      </EscalaGlobal>
+    </EmisionesCO2>
+  </Calificacion>
+  <MedidasDeMejora>
+    <Medida>
+      <CosteEstimado>-</CosteEstimado>
+      <CalificacionDemanda>
+        <Calefaccion>D</Calefaccion>
+        <Refrigeracion>B</Refrigeracion>
+      </CalificacionDemanda>
+      <OtrosDatos></OtrosDatos>
+      <EnergiaFinal>
+        <ACS>35.05</ACS>
+        <Calefaccion>89.10</Calefaccion>
+        <Global>127.55</Global>
+        <Refrigeracion>3.40</Refrigeracion>
+        <Iluminacion>0.00</Iluminacion>
+      </EnergiaFinal>
+      <CalificacionEnergiaPrimariaNoRenovable>
+        <ACS>G</ACS>
+        <Calefaccion>D</Calefaccion>
+        <Global>E</Global>
+        <Refrigeracion>B</Refrigeracion>
+      </CalificacionEnergiaPrimariaNoRenovable>
+      <Demanda>
+        <Calefaccion>65.76</Calefaccion>
+        <Global>98.43</Global>
+        <GlobalDiferenciaSituacionInicial>66.23</GlobalDiferenciaSituacionInicial>
+        <Refrigeracion>6.80</Refrigeracion>
+      </Demanda>
+      <Descripcion>Aislamiento exterior de 3 cm de XPS 0.034W/mK en Fachadas</Descripcion>
+      <Nombre>Paquete LIGHT(30-45 %)</Nombre>
+      <EnergiaPrimariaNoRenovable>
+        <GlobalDiferenciaSituacionInicial>105.94</GlobalDiferenciaSituacionInicial>
+        <Calefaccion>106.03</Calefaccion>
+        <Global>154.39</Global>
+        <ACS>41.71</ACS>
+        <Iluminacion>0.00</Iluminacion>
+        <Refrigeracion>6.64</Refrigeracion>
+      </EnergiaPrimariaNoRenovable>
+      <EmisionesCO2>
+        <GlobalDiferenciaSituacionInicial>22.38</GlobalDiferenciaSituacionInicial>
+        <Calefaccion>22.45</Calefaccion>
+        <Global>32.41</Global>
+        <ACS>8.83</ACS>
+        <Iluminacion>0.00</Iluminacion>
+        <Refrigeracion>1.13</Refrigeracion>
+      </EmisionesCO2>
+      <CalificacionEmisionesCO2>
+        <ACS>G</ACS>
+        <Calefaccion>D</Calefaccion>
+        <Global>E</Global>
+        <Refrigeracion>A</Refrigeracion>
+      </CalificacionEmisionesCO2>
+    </Medida>
+    <Medida>
+      <CosteEstimado>-</CosteEstimado>
+      <CalificacionDemanda>
+        <Calefaccion>D</Calefaccion>
+        <Refrigeracion>B</Refrigeracion>
+      </CalificacionDemanda>
+      <OtrosDatos></OtrosDatos>
+      <EnergiaFinal>
+        <ACS>35.05</ACS>
+        <Calefaccion>80.22</Calefaccion>
+        <Global>118.32</Global>
+        <Refrigeracion>3.04</Refrigeracion>
+        <Iluminacion>0.00</Iluminacion>
+      </EnergiaFinal>
+      <CalificacionEnergiaPrimariaNoRenovable>
+        <ACS>G</ACS>
+        <Calefaccion>D</Calefaccion>
+        <Global>D</Global>
+        <Refrigeracion>B</Refrigeracion>
+      </CalificacionEnergiaPrimariaNoRenovable>
+      <Demanda>
+        <Calefaccion>59.20</Calefaccion>
+        <Global>91.16</Global>
+        <GlobalDiferenciaSituacionInicial>73.50</GlobalDiferenciaSituacionInicial>
+        <Refrigeracion>6.08</Refrigeracion>
+      </Demanda>
+      <Descripcion>Aislamiento exterior de 6 cm de XPS 0.034W/mK en Fachadas</Descripcion>
+      <Nombre>Paquete MEDIO(45 -60 %)</Nombre>
+      <EnergiaPrimariaNoRenovable>
+        <GlobalDiferenciaSituacionInicial>117.21</GlobalDiferenciaSituacionInicial>
+        <Calefaccion>95.46</Calefaccion>
+        <Global>143.12</Global>
+        <ACS>41.71</ACS>
+        <Iluminacion>0.00</Iluminacion>
+        <Refrigeracion>5.94</Refrigeracion>
+      </EnergiaPrimariaNoRenovable>
+      <EmisionesCO2>
+        <GlobalDiferenciaSituacionInicial>24.74</GlobalDiferenciaSituacionInicial>
+        <Calefaccion>20.22</Calefaccion>
+        <Global>30.06</Global>
+        <ACS>8.83</ACS>
+        <Iluminacion>0.00</Iluminacion>
+        <Refrigeracion>1.01</Refrigeracion>
+      </EmisionesCO2>
+      <CalificacionEmisionesCO2>
+        <ACS>G</ACS>
+        <Calefaccion>D</Calefaccion>
+        <Global>D</Global>
+        <Refrigeracion>A</Refrigeracion>
+      </CalificacionEmisionesCO2>
+    </Medida>
+    <Medida>
+      <CosteEstimado>-</CosteEstimado>
+      <CalificacionDemanda>
+        <Calefaccion>C</Calefaccion>
+        <Refrigeracion>A</Refrigeracion>
+      </CalificacionDemanda>
+      <OtrosDatos></OtrosDatos>
+      <EnergiaFinal>
+        <ACS>13.67</ACS>
+        <Calefaccion>65.83</Calefaccion>
+        <Global>81.85</Global>
+        <Refrigeracion>2.35</Refrigeracion>
+        <Iluminacion>0.00</Iluminacion>
+      </EnergiaFinal>
+      <CalificacionEnergiaPrimariaNoRenovable>
+        <ACS>E</ACS>
+        <Calefaccion>D</Calefaccion>
+        <Global>D</Global>
+        <Refrigeracion>A</Refrigeracion>
+      </CalificacionEnergiaPrimariaNoRenovable>
+      <Demanda>
+        <Calefaccion>48.58</Calefaccion>
+        <Global>79.15</Global>
+        <GlobalDiferenciaSituacionInicial>85.50</GlobalDiferenciaSituacionInicial>
+        <Refrigeracion>4.70</Refrigeracion>
+      </Demanda>
+      <Descripcion>Aislamiento exterior de 6 cm de XPS 0.034W/mK en Fachadas Aislamiento exterior de 4 cm de XPS 0.034W/mK en Cubiertas Instalación de paneles solares </Descripcion>
+      <Nombre>Paquete MÁXIMO(60-80 %)</Nombre>
+      <EnergiaPrimariaNoRenovable>
+        <GlobalDiferenciaSituacionInicial>161.14</GlobalDiferenciaSituacionInicial>
+        <Calefaccion>78.34</Calefaccion>
+        <Global>99.19</Global>
+        <ACS>16.27</ACS>
+        <Iluminacion>0.00</Iluminacion>
+        <Refrigeracion>4.59</Refrigeracion>
+      </EnergiaPrimariaNoRenovable>
+      <EmisionesCO2>
+        <GlobalDiferenciaSituacionInicial>33.98</GlobalDiferenciaSituacionInicial>
+        <Calefaccion>16.59</Calefaccion>
+        <Global>20.81</Global>
+        <ACS>3.45</ACS>
+        <Iluminacion>0.00</Iluminacion>
+        <Refrigeracion>0.78</Refrigeracion>
+      </EmisionesCO2>
+      <CalificacionEmisionesCO2>
+        <ACS>E</ACS>
+        <Calefaccion>D</Calefaccion>
+        <Global>C</Global>
+        <Refrigeracion>A</Refrigeracion>
+      </CalificacionEmisionesCO2>
+    </Medida>
+  </MedidasDeMejora>
+  <PruebasComprobacionesInspecciones>
+    <Visita>
+      <Datos></Datos>
+      <FechaVisita>25/07/2023</FechaVisita>
+    </Visita>
+  </PruebasComprobacionesInspecciones>
+  <DatosPersonalizados>
+    <Aplicacion>CE3X</Aplicacion>
+    <FechaGeneracion>26/07/2023</FechaGeneracion>
+  </DatosPersonalizados>
+</DatosEnergeticosDelEdificio>
