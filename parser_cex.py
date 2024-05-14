@@ -566,7 +566,7 @@ class _Parser_CerramientosOpacos(IElementContainer):
     def __repr__(self):
         return super().__repr__()
 
-    def _get_elementos(self) -> Generator[_Parser_elemento_CerramientosOpacos]:
+    def _get_elementos(self) -> Generator[_Parser_elemento_CerramientosOpacos, None, None]:
         for elemento in self._root.findall("Elemento"):
             yield _Parser_elemento_CerramientosOpacos(elemento)
 
@@ -623,7 +623,7 @@ class _Parser_HuecosyLucernarios(IElementContainer):
     def __repr__(self):
         return super().__repr__()
 
-    def _get_elementos(self) -> Generator[_Parser_elemento_HuecosyLucernarios]:
+    def _get_elementos(self) -> Generator[_Parser_elemento_HuecosyLucernarios, None, None]:
         for elemento in self._root.findall("Elemento"):
             yield _Parser_elemento_HuecosyLucernarios(elemento)
 
@@ -668,7 +668,7 @@ class _Parser_PuentesTermicos(IElementContainer):
     def __repr__(self):
         return super().__repr__()
 
-    def _get_elementos(self) -> Generator[etree._Element]:
+    def _get_elementos(self) -> Generator[etree._Element,None, None]:
         for elemento in self._root.findall("Elemento"):
             yield _Parser_elemento_PuentesTermicos(elemento)
 
